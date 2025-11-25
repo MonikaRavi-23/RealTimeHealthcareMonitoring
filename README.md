@@ -14,6 +14,13 @@ Academic or research projects
 
 A smart Python-based system that reads patient vitals, analyzes them, generates alerts, and logs data for future analysis. Simple, effective, and ready for expansion into a full dashboard or IoT-connected healthcare system.
 
+
+## 📂 Files
+- `app.py` → main program  
+- `alerts.py` → alert detection logic  
+- `alert_history.csv` → auto-created log file  
+- `Patient_1_vitals.csv` etc. → patient data
+
 ## 🚀 Features
 
 - 📊 Real-time vitals monitoring from CSV  
